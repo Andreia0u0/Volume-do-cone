@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CONE
+comment1.params=
+comment1.target=CONE()
+comment2.params=altura\ raio
+comment2.target=CONE(double,\ double)
+comment3.params=
+comment3.target=double\ calcular()
+comment4.params=
+comment4.target=java.lang.String\ interpretar()
+numComments=5
